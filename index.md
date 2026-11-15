@@ -8,6 +8,11 @@ nav_order: 1
 
 ![Single-Player Deckbuilder / Card Battler Complete Kit]({{ site.baseurl }}/assets/images/cover.png)
 
+<video controls preload="metadata" style="max-width:100%" poster="{{ site.baseurl }}/assets/images/cover.png">
+  <source src="{{ site.baseurl }}/assets/video/demo.mp4" type="video/mp4">
+</video>
+
+
 Every solo developer who attempts a deckbuilder rebuilds the same invisible machinery first — card data, effect resolution, enemy behaviour, run structure, save and meta-progression — before designing a single interesting card. The **Single-Player Deckbuilder / Card Battler Complete Kit** is that machinery, finished, with a complete playable game inside the box.
 
 ---
